@@ -1,0 +1,5 @@
+set classpath=%classpath%;C:\Users\HARSHIT JAISWAL\Desktop\mysql-connector-java-8.0.18\mysql-connector-java-8.0.18.jar;
+
+java bin.MVCBook
+
+javac -d "C:\Users\HARSHIT JAISWAL\Desktop\Librarymngmnt" file_name.java
